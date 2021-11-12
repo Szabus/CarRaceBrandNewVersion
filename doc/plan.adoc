@@ -1,0 +1,6 @@
+= I. osztályok létrehozása:
+
+    - 5 csapat: Ferrari, Mercedes, Renault, Alpha Romeo, Benetton
+
+    - pilóta, mérnök, koordinátor, szerelő
+

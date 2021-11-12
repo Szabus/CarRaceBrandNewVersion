@@ -1,0 +1,21 @@
+= Autóverseny
+
+---
+
+Készíts programot, amely egy autóverseny-szezont szimulál!
+A Forma1-hez hasonlóan: a szezonban több futam van (a programodban legyen legalább 8), mindegyik futamnak van külön-külön győztese, azután a szezonnak is van győztese.
+Te döntheted el, hogy hogyan határozod meg, ki nyeri a szezont. (Lehet, hogy az nyer, akinek a legtöbb futamgyőzelme van. De az is lehet, hogy plusz pontozást vezetsz be.)
+
+
+Ami valósuljon meg a programodban:
+
+
+1.	Legyenek csapataid, akik indulnak a versenyen.
+2.	A csapatodban legyen több tag (pilóta, mérnök, koordinátor, szerelő stb.).
+3.	A programod figyelje a csapattagok állapotát. Legyen lehetőség arra, hogy valaki megsérüljön vagy lebetegedjen - azaz ne tudjon részt venni a futamon.
+4.	Hasonló az autókra is legyen: A programod figyelje az autók állapotát. Az autó elromolhat, totálkáros lehet - vagy akár futam közben kifogyhat az üzemanyaga, defektet kaphat stb.
+5.	Építsd bele a programodba azt, hogy valamelyik csapat nem tud indulni a következő futamon (betegség vagy az autó rossz állapota miatt pl.). Ezt megoldhatod akár véletlenszerű generálással.
+6.	Mindezeken felül legyen a programodban öröklődés, lehetőleg enum és adatszerkezet is! (Javaslat: gyakorold a Map-ek használatát!)
+7.	Az adatokhoz (pl. csapatok, versenypályák) létrehozhatsz fájlt, és beolvashatod azokból mindazt, ami kell - ám ez nem elvárás. A szükséges objektumokat létrehozhatod a programkódban is.
+
+--------
